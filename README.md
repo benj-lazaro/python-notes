@@ -1,2 +1,3 @@
 # python-notes
-Notes on Python
+
+Notes on Python programming
