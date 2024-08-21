@@ -1,0 +1,25 @@
+Variables
+---------
+- It is one of the core concepts in programming
+    - It is used to store data in the computer's memory
+
+    - It references to the location where data is stored in memory
+        - Serves as a label to that memory location
+
+    - It can be used anywhere in the program
+        - To access the data stored in that memory location
+        - To overwrite previous data with a new one
+
+
+- Supported data types in a variable
+    - Built-in or Primitive data types
+        - Booleans
+            - Should always start with a capital letter
+            - e.g. True, False
+
+        - Numbers
+            - Floats (1.99)
+            - Integers (1, 2, 3)
+
+        - Strings
+            - Basically text surrounded with a pair of " "
