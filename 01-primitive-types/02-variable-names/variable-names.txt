@@ -1,0 +1,15 @@
+Variable Names
+--------------
+- Best practices in naming Variables
+    - Descriptive and meaningful name
+    - Use of lowercase letters
+    - Use of underscore character (_) to separate words
+    - Presence of whitespace around the assignment operator (=)
+
+
+Examples
+--------
+student_count = 1000
+rating = 4.99
+is_published = True
+course_name = "Python programming"
