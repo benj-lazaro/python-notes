@@ -1,3 +1,3 @@
 # python-notes
 
-Notes on Python programming
+Python programming note
