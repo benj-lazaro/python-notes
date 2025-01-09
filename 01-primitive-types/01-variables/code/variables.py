@@ -1,13 +1,14 @@
-# Python interpreter allocates memory to store data
-# The variable references the address of that memory location
+# Variables
+
+# Variable "student_count" references an address in memory that stored the integer of 1000
 student_count = 1000
 
-# Python interpreter accesses the memory location to read the stored data
-# Uses the built-in function print() to display the data on screen (terminal)
+# Python interpreter access the value stored in memory location "student_count"
+# Passes the stored integer to the built-un function print()
 print(student_count)
 
-# Supported data types in a variable
-# Numbers (floating)
+# Supported primitive data types
+# Number (float)
 rating = 4.99
 
 # Boolean
