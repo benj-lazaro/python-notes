@@ -1,10 +1,10 @@
 Variable Names
 --------------
-- Best practices in naming Variables
-    - Descriptive and meaningful name
-    - Use of lowercase letters
-    - Use of underscore character (_) to separate words
-    - Presence of whitespace around the assignment operator (=)
+- Best practice in naming a variable
+    - Descriptive & meaningful
+    - Use lowercase letters
+    - Use underscore character "_" to separate words
+    - Presence of whitespace around the "=" operator
 
 
 Examples
